@@ -1,0 +1,20 @@
+{
+  "name": "brighter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@clapan",
+  "license": "ISC",
+  "dependencies": {
+    "clear": "^0.1.0",
+    "colors": "^1.4.0",
+    "lumi-control": "^1.3.7"
+  },
+  "devDependencies": {
+    "@angablue/exe": "^2.0.2",
+    "resedit": "^2.0.0"
+  }
+}
