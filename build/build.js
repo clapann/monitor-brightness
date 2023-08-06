@@ -1,9 +1,8 @@
-// build.js
 const exe = require('@angablue/exe');
 
 const build = exe({
     entry: '../index.js',
-    out: '../build/Brightness.exe',
+    out: '../build/brighter.exe',
     icon: '../assets/icon.ico'
 });
 
