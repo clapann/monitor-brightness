@@ -8,7 +8,7 @@
 
 ---
 
-<p align="center"> 🔆 A simple node.js console application to change your monitors brightness.<br></p>
+<p align="center"> 🔆 A simple node.js console application to change your monitors' brightness.<br></p>
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
