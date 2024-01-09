@@ -21,4 +21,4 @@
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@clap](https://dsc.bio/clap) - Developer of the ch$rry API, wrapper and Discord bot.
+- [@clapann](https://clap.wtf) - Developer & creator of the ch$rry Network.
