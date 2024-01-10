@@ -21,4 +21,4 @@
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@clapann](https://clap.wtf) - Developer & creator of the ch$rry Network.
+- [@clapann](https://clap.wtf) - A full-stack developer from California, United States.
